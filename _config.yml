@@ -1,5 +1,5 @@
 title: CodeStyle
 url: "https://infoweb.github.io/codestyle"
-baseurl: "/codestyle"
+baseurl: "/codestyle/"
 
 exclude: ['CNAME', '*.sublime-*']
